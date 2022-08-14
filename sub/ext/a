@@ -27,7 +27,7 @@
 {"key":"afasu","name":"Afasu🈲","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"pgxdy","name":"Pgx电影🈲","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"msn","name":"美少女🈲","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"afasu","name":"*小湿妹🈲","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":0,"quickSearch":0},
+{"key":"afasu","name":"小湿妹🈲","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"kk","name":"看看🔞","type":0,"api":"https://kkzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"sm","name":"猫资源🔞","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"sw","name":"丝袜🔞","type":0,"api":"https://siwazyw.cc/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
