@@ -29,11 +29,11 @@
   // 列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
-  // 搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。/vodsearch/-------------.html?wd=
-  "sousuoqian": "/vsearch?wd=.html",
+  // 搜索部分基本不用动,现在网站基本都是苹果CMS,所有搜索是固定的 /vodsearch/-------------.html?wd=
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
   // 搜索页影片跳转详情页的中间标识链接部分
-  "sousuohouzhui": "/vplay/",
+  "sousuohouzhui": "/vdetail/",
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
   "jspic": "pic",
@@ -64,7 +64,7 @@
   "zhuyanhou": "</p>",
   "juqingqian": "简介：</span>",
   "juqinghou": "</p>",
-  // 截取的播放列表数组是否需要二次截取，0不需要，1需要
+  // 截取的播放列表数组是否需要二次截取,0不需要,1需要
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
   "bfyjiequhou": "空",
